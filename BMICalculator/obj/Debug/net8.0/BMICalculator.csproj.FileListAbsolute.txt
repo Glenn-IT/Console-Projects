@@ -1,0 +1,15 @@
+C:\Users\GLENN\Console Projects\BMICalculator\bin\Debug\net8.0\BMICalculator.exe
+C:\Users\GLENN\Console Projects\BMICalculator\bin\Debug\net8.0\BMICalculator.deps.json
+C:\Users\GLENN\Console Projects\BMICalculator\bin\Debug\net8.0\BMICalculator.runtimeconfig.json
+C:\Users\GLENN\Console Projects\BMICalculator\bin\Debug\net8.0\BMICalculator.dll
+C:\Users\GLENN\Console Projects\BMICalculator\bin\Debug\net8.0\BMICalculator.pdb
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\BMICalculator.AssemblyInfo.cs
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\BMICalculator.sourcelink.json
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\BMICalculator.dll
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\refint\BMICalculator.dll
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\BMICalculator.pdb
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\BMICalculator.genruntimeconfig.cache
+C:\Users\GLENN\Console Projects\BMICalculator\obj\Debug\net8.0\ref\BMICalculator.dll
