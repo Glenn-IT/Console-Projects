@@ -1,0 +1,14 @@
+C:\Users\GLENN\Console Projects\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.exe
+C:\Users\GLENN\Console Projects\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.deps.json
+C:\Users\GLENN\Console Projects\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.runtimeconfig.json
+C:\Users\GLENN\Console Projects\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.dll
+C:\Users\GLENN\Console Projects\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.pdb
+C:\Users\GLENN\Console Projects\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLENN\Console Projects\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\GLENN\Console Projects\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.AssemblyInfo.cs
+C:\Users\GLENN\Console Projects\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\GLENN\Console Projects\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.dll
+C:\Users\GLENN\Console Projects\CurrencyConverter\obj\Debug\net8.0\refint\CurrencyConverter.dll
+C:\Users\GLENN\Console Projects\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.pdb
+C:\Users\GLENN\Console Projects\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.genruntimeconfig.cache
+C:\Users\GLENN\Console Projects\CurrencyConverter\obj\Debug\net8.0\ref\CurrencyConverter.dll
