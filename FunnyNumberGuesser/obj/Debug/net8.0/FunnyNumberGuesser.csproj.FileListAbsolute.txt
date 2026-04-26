@@ -1,0 +1,15 @@
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\bin\Debug\net8.0\FunnyNumberGuesser.exe
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\bin\Debug\net8.0\FunnyNumberGuesser.deps.json
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\bin\Debug\net8.0\FunnyNumberGuesser.runtimeconfig.json
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\bin\Debug\net8.0\FunnyNumberGuesser.dll
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\bin\Debug\net8.0\FunnyNumberGuesser.pdb
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\FunnyNumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\FunnyNumberGuesser.AssemblyInfoInputs.cache
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\FunnyNumberGuesser.AssemblyInfo.cs
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\FunnyNumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\FunnyNumberGuesser.sourcelink.json
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\FunnyNumberGuesser.dll
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\refint\FunnyNumberGuesser.dll
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\FunnyNumberGuesser.pdb
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\FunnyNumberGuesser.genruntimeconfig.cache
+C:\Users\GLENN\Console Projects\FunnyNumberGuesser\obj\Debug\net8.0\ref\FunnyNumberGuesser.dll
